@@ -3,7 +3,6 @@
 <br>
 
 <div align="left" style = "display: flex; align-items: center;">
-  <img src="./assets/luckyray.jpg" width="10%" style="margin-right:30px; border-radius: 50%; box-shadow: 0px 0px 10px 1px #FFFFFF;" >
   <h3>Toward the radiant glow of the Lucky Ray! With you... With me...</h3>
 </div>
 
