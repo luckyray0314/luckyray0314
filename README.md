@@ -118,8 +118,8 @@
       <br>Laravel
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-      <br>Rails
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Rails" />
+      <br>.NET
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
